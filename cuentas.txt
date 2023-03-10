@@ -1,0 +1,7 @@
+GMAIL:
+flowerpranashala@gmail.com
+clave: Flowerpower1
+
+GITHUB:
+usuario: flowerpranashala@gmail.com
+clave: 1FlowerPower
